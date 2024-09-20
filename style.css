@@ -1,0 +1,26 @@
+header{        
+    background: linear-gradient(purple, black);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    background-color: green;
+}
+
+img {
+border-radius: 40px;
+
+}
+
+footer {
+font-weight: bold;
+background-color: blueviolet;
+}
+
+
+section{
+
+    background-color: purple
+}
